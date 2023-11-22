@@ -1,6 +1,6 @@
 # code_test
 
-A new Flutter project.
+A Flutter counter app.
 
 ## Getting Started
 
